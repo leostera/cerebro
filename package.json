@@ -12,7 +12,7 @@
   "main": "src/app.js",
   "dependencies": {
     "axios": "^0.15.2",
-    "babel-runtime": "^6.18.0",
+    "babel-runtime": "^6.20.0",
     "co": "^4.6.0",
     "flux": "^3.1.0",
     "object-assign": "^4.1.0",
