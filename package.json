@@ -23,7 +23,7 @@
     "browserify": "^13.1.1",
     "envify": "^4.0.0",
     "reactify": "^1.1.1",
-    "uglify-js": "~2.7.4",
+    "uglify-js": "~2.8.5",
     "watchify": "^3.7.0"
   },
   "scripts": {
