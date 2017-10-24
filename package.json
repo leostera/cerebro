@@ -19,7 +19,7 @@
     "react": "^15.3.2"
   },
   "devDependencies": {
-    "babelify": "^7.3.0",
+    "babelify": "^8.0.0",
     "browserify": "^13.1.1",
     "envify": "^4.0.0",
     "reactify": "^1.1.1",
